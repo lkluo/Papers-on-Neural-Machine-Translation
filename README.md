@@ -1,4 +1,6 @@
 # Papers-on-Neural-Machine-Translation
+[Accelerating Neural Transformer via an Average Attention Network](https://arxiv.org/pdf/1805.00631.pdf)
+[Achieving Human Parity on Automatic Chinese to English News Translation](https://arxiv.org/pdf/1803.05567.pdf)
 
 [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 
