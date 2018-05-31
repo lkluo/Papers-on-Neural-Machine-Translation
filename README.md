@@ -6,6 +6,7 @@
 
 ### Transformer & Variants
 [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+
 [The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation](https://arxiv.org/abs/1804.09849)
 
 ### Unsupervised NMT
