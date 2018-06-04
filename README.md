@@ -1,13 +1,11 @@
 # Papers-on-Neural-Machine-Translation
 
-### NMT efficiency
-[Accelerating Neural Transformer via an Average Attention Network](https://arxiv.org/pdf/1805.00631.pdf)
-
-
 ### Transformer & Variants
 [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 
 [The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation](https://arxiv.org/abs/1804.09849)
+
+[Accelerating Neural Transformer via an Average Attention Network](https://arxiv.org/pdf/1805.00631.pdf)
 
 ### Unsupervised NMT
 [Unsupervised Neural Machine Translation Using Monolingual Corpora Only](https://arxiv.org/pdf/1711.00043)
@@ -19,6 +17,8 @@
 [Phrase-Based & Neural Unsupervised Machine Translation](https://arxiv.org/pdf/1804.07755.pdf)
 
 ### Transfer learning / Zero-shot NMT / Monolingual data
+[A Survey of Domain Adaptation for Neural Machine Translation](https://arxiv.org/pdf/1806.00258.pdf)
+
 [Zero-shot translation](https://arxiv.org/pdf/1611.04558)
 
 [Transfer Learning for Low-Resource Neural Machine Translation](https://www.aclweb.org/anthology/D16-1163)
